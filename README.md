@@ -1,3 +1,5 @@
+[Lesson resume](https://github.com/empathyco/academy-paths/blob/main/Engineering%20Paths/Frontend%20Path/html-css.md)
+
 # HTML
 
 [HTML in MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -41,9 +43,3 @@
 [Can I use?](https://caniuse.com/)
 
 [CSS-tricks](https://css-tricks.com/)
-
-# Task for this week
-
-Creating your own personal website, it can have multiple sections. 
-
-Try using semantic HTML elements, `grid` and `flex` in the process.
